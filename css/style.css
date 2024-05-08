@@ -1,0 +1,55 @@
+*{
+    box-sizing: border-box;
+    color: black;
+}
+p{
+    color: white;
+}
+
+body{
+    margin: auto;
+}
+
+h1{
+    color: rgb(255, 255, 255);
+}
+.row{
+    padding: 1rem;
+}
+.barra{
+    background: #000000;
+    width: 100%;
+    color: white;
+}
+.cajaBorde{
+    border-style: solid;
+    border-color: #FF266E;
+    height: 30vh;
+}
+.secciones{
+   border-style: solid; 
+   border-color: black;
+   height: 550px;
+}
+
+.menu{
+    margin: 0 1px;
+    
+
+}
+.foto{
+    border-style: solid;
+    border-color: black;
+    height: 350px;
+}
+
+/* Esto es el fondo de la seccion 2*/
+.triangulo {
+    background: linear-gradient(-23deg, #e8cabb 50%, #a7bbc2 50%);
+  }
+
+  /* Esto es el fondo de la seccion 6*/
+.triangulo2 {
+    background: linear-gradient(-23deg, #e8cabb 50%, #a7bbc2 50%);
+  }
+
